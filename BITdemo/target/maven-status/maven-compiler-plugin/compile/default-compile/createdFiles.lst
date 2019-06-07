@@ -1,2 +1,6 @@
+demo\BITdemo\controller\InventoryDAO.class
+demo\BITdemo\controller\Dao.class
+demo\BITdemo\DBSource.class
 demo\BITdemo\BiTdemoApplication.class
+demo\BITdemo\controller\Inventory.class
 demo\BITdemo\controller\HomeController.class
